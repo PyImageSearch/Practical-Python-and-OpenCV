@@ -1,4 +1,4 @@
-# PPAO
+# Practical Python and OpenCV
 Bug or Problem Tracker
 
 Welcome the Practical Python and OpenCV Bug Tracker.  This tracker is for customers who have purchased [Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/).  
