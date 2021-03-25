@@ -24,6 +24,6 @@ If the issue is not related to code, then you can simply skip this question.
 
 ## Describe the issue 
 
-Please be clear and concise. 
+Please be clear and concise. Don't forget to include the Bundle and chapter names where you have found issues. 
 
 ## Any other information
